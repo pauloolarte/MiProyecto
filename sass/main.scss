@@ -90,33 +90,33 @@ header{
 
     }
 
-    .profile-options-modal{
-        .profile-options-list{
-            padding: 0;
-            margin: 0;
-            list-style: none;
+}
 
-            li{
-                a{
-                    display: block;
-                    padding: 10px 0;
-                    color: $black2;
-                    text-decoration: none;
+//Modal
+.profile-options-modal{
+    .profile-options-list{
+        padding: 0;
+        margin: 0;
+        list-style: none;
 
-                    i{
-                        display: inline-block;
-                        width: 18px;
-                        text-align: center;
-                        margin-right: 5px;
-                    }
+        li{
+            a{
+                display: block;
+                padding: 10px 0;
+                color: $black2;
+                text-decoration: none;
 
+                i{
+                    display: inline-block;
+                    width: 18px;
+                    text-align: center;
+                    margin-right: 5px;
                 }
+
             }
-
         }
+
     }
-
-
 }
 
 //empieza main
